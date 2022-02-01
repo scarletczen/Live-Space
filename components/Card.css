@@ -76,8 +76,11 @@
         width: 27vw;
     }
 }
-@media only screen and (max-width:1300px) {
+@media only screen and (max-width:768px) {
     .cardBox{
         margin-bottom: 5vh;
+    }
+    .detailHead{
+        font-size: calc(16px + 1vw);
     }
 }
