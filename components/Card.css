@@ -1,7 +1,7 @@
 .cardBox{
     margin: 1vw 3vw 1vw 0.7vw;
     height: 45vh;
-    width: 29vw;
+    width: calc(220px + 17vw);
     border-radius: 7px;
     box-shadow: 0.3vh 0.3vh 3vh rgba(0, 0, 0, 0.1);
 }
@@ -26,7 +26,7 @@
 }
 .detailHead{
     font-family: "Space Grotesk", sans-serif;
-    font-size: 1.7vw;
+    font-size: calc(10px + 1vw);
     font-weight: bold;
     color: white;
     margin: 2vh 0 0 2.5vh
@@ -38,7 +38,7 @@
     padding-left: 2vh;
     margin: 0 0 2vh 2vh;
     height: 35%;
-    width: 35%;
+    width: 45%;
     background-color: rgb(23, 23, 25);
     border-radius: 5px;
     font-family: "Space Grotesk", sans-serif;
@@ -46,6 +46,7 @@
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
+    transition: 0.15s ease all;
 }
 .creator{
     width: 50%;
@@ -60,4 +61,23 @@
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
+}
+.link:hover{
+    cursor: pointer;
+    transform: scale(0.95);
+    background-color: white;
+    color: black;
+}
+
+/* RESPONSIVE */
+@media only screen and (min-width:1310px) and (max-width:1780px) {
+    .cardBox{
+        
+        width: 27vw;
+    }
+}
+@media only screen and (max-width:1300px) {
+    .cardBox{
+        margin-bottom: 5vh;
+    }
 }
