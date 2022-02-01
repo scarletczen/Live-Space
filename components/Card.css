@@ -1,0 +1,52 @@
+.cardBox{
+    margin: 2vh 5vh 2vh 2vh;
+    height: 45vh;
+    width: 29vw;
+    border-radius: 7px;
+    box-shadow: 0.3vh 0.3vh 3vh rgba(0, 0, 0, 0.1);
+}
+.imageBox{
+    height: 50%;
+    width: 100%;
+}
+.image{
+    min-width: 100%;
+    min-height: 100%;
+    border-radius: 7px 7px 0 0;
+} 
+
+.detailBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: black;
+    height: 50%;
+    width: 100%;
+    border-radius: 0 0 7px 7px;
+}
+.detailHead{
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 1.7vw;
+    font-weight: bold;
+    color: white;
+    margin: 2vh 0 0 2.5vh
+}
+.link{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 2vh;
+    margin: 0 0 2vh 2vh;
+    height: 35%;
+    width: 40%;
+    background-color: rgb(23, 23, 25);
+    border-radius: 5px;
+    font-family: "Space Grotesk", sans-serif;
+    color: white;
+    overflow: hidden;
+}
+.address{
+    font-family: "Space Grotesk", sans-serif;
+    color: rgb(165, 165, 165);
+    overflow: hidden;
+}

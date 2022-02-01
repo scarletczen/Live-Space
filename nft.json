@@ -1,0 +1,44 @@
+{
+    "NFT":[
+    {
+        "name": "Cryptic Dude",
+        "url": "./assets/punk.png",
+        "creator": "@anon1",
+        "address": "0xbe5688"
+        
+    },
+    {
+        "name": "Heaven Monke",
+        "url": "./assets/monke.jpg",
+        "creator": "@anon1",
+        "address": "0xbe5698"
+        
+    },
+    {
+        "name": "Golden Doge",
+        "url": "./assets/doge.jpg",
+        "creator": "@elonhack",
+        "address": "0xbe58788"
+        
+    },
+    {
+        "name": "Cool Doge",
+        "url": "./assets/doge2.png",
+        "creator": "@elonhack",
+        "address": "0xbe5778"
+        
+    },
+    {
+        "name": "Mindspace",
+        "url": "./assets/beeple.jpg",
+        "creator": "@Beeple",
+        "address": "0xbe3688"
+        
+    },
+    {
+        "name": "Space 2",
+        "url": "./assets/beeple2.jpg",
+        "creator": "@Beeple",
+        "address": "0xbf4688"
+    }
+]}
