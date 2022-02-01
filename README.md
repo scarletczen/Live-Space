@@ -1,4 +1,5 @@
 # Live-Space
+[![Netlify Status](https://api.netlify.com/api/v1/badges/efaea5da-1592-4dc3-bfbc-24e2e76f5ad1/deploy-status)](https://app.netlify.com/sites/live-space-37fc88/deploys)
 ## https://live-space-37fc88.netlify.app/
 ### I was given an assignment through `Internshala` to recreate a webpage using only a `screenshot`. It was an `NFT` themed website.
 <img src="./GIF/Desktop.gif"/>
