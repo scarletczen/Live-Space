@@ -16,7 +16,9 @@ const Card = (props) => {
           <div className="detailBox">
               <div className="detailHead">{name}</div>
               <div className="link">
+                  <div className="creator">
                   {creator}
+                  </div>
                   <div className="address">
                     {address}
                   </div>

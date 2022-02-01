@@ -7,7 +7,7 @@ function App() {
   return(
     <>
         <div className='header'>
-        <h1>Live Spaces</h1>
+        <h1 id="titleh">Live Spaces</h1>
         <div className='sub'>
           
           <div>
