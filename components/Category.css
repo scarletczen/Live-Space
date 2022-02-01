@@ -19,17 +19,46 @@
     margin:0 0.8vw 0 0.8vw;
     background-color: white;
     height: 35%;
-    width: 12vw;
+    width: 22vw;
     color: black;
     border: 0.1vw solid rgba(128, 128, 128, 0.2);
-    border-radius: 25px;
+    border-radius: 500px;
     font-family: "Space Grotesk", sans-serif;
-    font-size: 1.1vw;
+    font-size: 14-2.1vw;
+    white-space: nowrap;
     font-weight: 500;
     transition: 0.2s ease all;
 
 }
 .category:hover{
+    cursor: pointer;
     color: white;
     background-color: black;
+}
+
+/* RESPONSIVE */
+@media only screen and (max-width: 768px) {
+
+.categoryContainer{
+   display: flex;
+   justify-content: start;
+   width: 100%;
+   flex-direction: row;
+   flex-wrap: nowrap;
+   overflow-y: hidden;
+   overflow-x:scroll;
+   white-space: nowrap;
+
+}
+.categoryContainer::-webkit-scrollbar{
+    display: none;
+}
+.category{
+
+    height: 6.5vh;
+    width: 240px;
+    margin: 0 7px 0 7px;
+    padding: 10px;
+    font-size: 18px;
+}
 }
