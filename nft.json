@@ -2,42 +2,42 @@
     "NFT":[
     {
         "name": "Cryptic Dude",
-        "url": "./public/assets/punk.png",
+        "url": "https://cdn.pixabay.com/photo/2022/01/17/17/20/bored-6945309_960_720.png",
         "creator": "@anon1",
         "address": "0xbe5688ukygb87b686b"
         
     },
     {
         "name": "Heaven Monke",
-        "url": "./public/assets/monke.jpg",
+        "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/43YAWLITTZJLZIQTCP2JSS4KSM.jpg",
         "creator": "@anon1x5adfhg7",
         "address": "0xbe5698ytbfr7b657"
         
     },
     {
-        "name": "Golden Doge",
-        "url": "./public/assets/doge.jpg",
+        "name": "Smoke Doge",
+        "url": "https://thedogepoundnft.com/static/media/3.bd259624.jpg",
         "creator": "@elonhack",
         "address": "0xbe5878876b8756rb"
         
     },
     {
         "name": "Cool Doge",
-        "url": "./public/assets/doge2.png",
+        "url": "https://thedogepoundnft.com/static/media/27.915918bb.jpg",
         "creator": "@elonhackskjhdcxb7",
         "address": "0xbe5778768rb8756br"
         
     },
     {
         "name": "Mindspace",
-        "url": "./public/assets/beeple.jpg",
+        "url": "https://www.christies.com/img/SaleImages/NYR-20447-02252021-1.JPG?width=400&quality=70",
         "creator": "@Beeple",
         "address": "0xbe3688876br876br"
         
     },
     {
         "name": "Space 2",
-        "url": "./public/assets/beeple2.jpg",
+        "url": "https://static01.nyt.com/images/2021/03/12/arts/12nft-buyer-1/merlin_184937952_4f3bc7e4-bcd1-4e3a-aa99-aeb528736b06-mobileMasterAt3x.jpg",
         "creator": "@Beeple",
         "address": "0xbf4688i76fb8i76bfr"
     }
