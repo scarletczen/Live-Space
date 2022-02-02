@@ -2,7 +2,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/efaea5da-1592-4dc3-bfbc-24e2e76f5ad1/deploy-status)](https://app.netlify.com/sites/live-space-37fc88/deploys)
 ## https://live-space-37fc88.netlify.app/
 ### I was given an assignment through `Internshala` to recreate a webpage using only a `screenshot`. It was an `NFT` themed website.
-<img src="./GIF/Desktop.gif"/>
+<img src="./GIF/Desktop.gif" width="70%"/>
 
 ## Procedure:-
 ### While designing this website, it was essential to recreate the `color palette`, exact `font` used, `layouts`, `sizes` and other properties. In addition to this, the buttons are made interactive and the whole website is `responsive` i:e good to view on any device.
